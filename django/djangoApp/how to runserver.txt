@@ -1,0 +1,2 @@
+./django/djangoApp
+python manage.py runserver
